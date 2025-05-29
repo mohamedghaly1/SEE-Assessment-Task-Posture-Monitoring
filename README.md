@@ -21,7 +21,7 @@ Model Selection: Criteria for choosing 2D vs. 3D pose estimation models based on
 
 Data Collection & Annotation: How data was gathered and keypoints annotated to train and fine-tune the model.
 
-Training Process: Use of pre-trained models (YOLOv8) and techniques to ensure model generalization across users and environments.
+Training Process: Use of pre-trained models and techniques to ensure model generalization across users and environments.
 
 Model Usage: Deployment strategies for real-time and post-processing analysis with considerations for latency, accuracy, and user-friendly feedback for home and gym scenarios.
 
